@@ -1,2 +1,2 @@
-# Diwali-Sales-Analysis-Exploratory-Data-Analysis-EDA-Project
-Performed data cleaning and exploratory analysis on Diwali retail sales data using Python. Identified key customer segments, top-performing products, and state-wise sales trends to uncover actionable business insights.
+In this project, I performed comprehensive EDA on a real-world retail dataset centered around Diwali sales. The analysis involved data cleaning, preprocessing, and visualization using Python libraries such as Pandas, Matplotlib, and Seaborn. Key insights were drawn on customer behavior, gender-based purchasing trends, age group preferences, state-wise sales performance, and top-selling product categories.  
+This project highlights how data-driven insights can optimize marketing strategies and drive sales growth during festive seasons.
